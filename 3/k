@@ -1,0 +1,54 @@
+Token Found :: # 			 Token ID :: 35
+Token Found :: include 			 Token ID :: 1002
+Token Found :: < 			 Token ID :: 60
+Token Found :: stdio 			 Token ID :: 1002
+Token Found :: . 			 Token ID :: 46
+Token Found :: h 			 Token ID :: 1002
+Token Found :: > 			 Token ID :: 62
+
+
+Token Found :: int 			 Token ID :: 1000
+ Token Found :: main 			 Token ID :: 1001
+Token Found :: ( 			 Token ID :: 40
+Token Found :: ) 			 Token ID :: 41
+Token Found :: { 			 Token ID :: 123
+
+	Token Found :: int 			 Token ID :: 1000
+ Token Found :: i 			 Token ID :: 1002
+Token Found :: = 			 Token ID :: 61
+Token Found :: 0 			 Token ID :: 1010
+Token Found :: ; 			 Token ID :: 59
+
+	Token Found :: int 			 Token ID :: 1000
+ Token Found :: j 			 Token ID :: 1002
+Token Found :: = 			 Token ID :: 61
+Token Found :: 0 			 Token ID :: 1010
+Token Found :: ; 			 Token ID :: 59
+
+	Token Found :: for 			 Token ID :: 1002
+Token Found :: ( 			 Token ID :: 40
+Token Found :: i 			 Token ID :: 1002
+Token Found :: = 			 Token ID :: 61
+Token Found :: 0 			 Token ID :: 1010
+Token Found :: ; 			 Token ID :: 59
+Token Found :: i 			 Token ID :: 1002
+Token Found :: < 			 Token ID :: 60
+Token Found :: n 			 Token ID :: 1002
+Token Found :: ; 			 Token ID :: 59
+Token Found :: i 			 Token ID :: 1002
+Token Found :: + 			 Token ID :: 43
+Token Found :: + 			 Token ID :: 43
+Token Found :: ) 			 Token ID :: 41
+
+		Token Found :: j 			 Token ID :: 1002
+Token Found :: + 			 Token ID :: 43
+Token Found :: + 			 Token ID :: 43
+Token Found :: ; 			 Token ID :: 59
+
+	
+	Token Found :: return 			 Token ID :: 1016
+ Token Found :: 0 			 Token ID :: 1010
+Token Found :: ; 			 Token ID :: 59
+
+Token Found :: } 			 Token ID :: 125
+
